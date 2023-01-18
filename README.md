@@ -1,8 +1,8 @@
+# Projeto 04
 
-# Projeto 02
 ## Seus dados estão protegidos?
 
-Projeto de introdução a programação HTML e CCS.
+Projeto de programação HTML e CCS.
 
 - Estruturação semântica;
 - Importância da semântica e acessibilidade
