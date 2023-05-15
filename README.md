@@ -7,7 +7,8 @@ Foi recebido durante o curso um código com vários problemas de escrita, semân
 
 ## Imagem
 _Antes_
-![image](https://github.com/rovedabr/RS.Proj_4_CorrgindoBugs/assets/118762335/474a0d33-8eb4-43c5-baea-7216967f335b)
+![image](https://github.com/rovedabr/RS.Proj_4_CorrgindoBugs/assets/118762335/d26f6888-259a-401f-b2b1-75906da19803)
+
 
 _Depois_
 ![image](https://github.com/rovedabr/RS.Proj_4_CorrgindoBugs/assets/118762335/0e2f5753-9a6a-4c01-8e92-f62a997f7ede)
