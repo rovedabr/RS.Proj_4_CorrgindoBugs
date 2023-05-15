@@ -1,9 +1,20 @@
 # Projeto 04 - Encontrando Bugs no código 
 
-## Seus dados estão protegidos?
+*Encontrando bugs e problemas no código
 
-Projeto de programação HTML e CCS.
+## Descrição
+Foi recebido durante o curso um código com vários problemas de escrita, semântica dentre outros que desconfiguravam todo o layout da página. Desta forma, foram corrigidos os problemas fazendo a página funcionar corretamente.
 
+## Imagem
+_Antes_
+![image](https://github.com/rovedabr/RS.Proj_4_CorrgindoBugs/assets/118762335/474a0d33-8eb4-43c5-baea-7216967f335b)
+
+_Depois_
+![image](https://github.com/rovedabr/RS.Proj_4_CorrgindoBugs/assets/118762335/0e2f5753-9a6a-4c01-8e92-f62a997f7ede)
+
+
+
+## Projeto de programação HTML e CCS.
 - Estruturação semântica;
 - Importância da semântica e acessibilidade
 - CSS avançado
